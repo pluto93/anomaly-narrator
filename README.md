@@ -79,7 +79,7 @@ streamlit run app/dashboard.py
 | `joblib`                        | Model saving                      |
 | `sentence-transformers`         | Pattern clustering                |
 
-## 📌 Example Use Cases
+## 📌 Example Use Cases
 
 Banking: Fraud team reviews and prioritizes alerts with explanations
 
