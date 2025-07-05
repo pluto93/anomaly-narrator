@@ -1,0 +1,12 @@
+# Ignore all large data files
+data/*.csv
+
+# OPTIONAL: ignore model files if large
+models/*.pkl
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
