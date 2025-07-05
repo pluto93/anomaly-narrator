@@ -50,14 +50,13 @@ Built to showcase **explainable AI (XAI)** + anomaly detection in a business-rel
   - CSV download of filtered results
 
 ---
+## ⚙️ Setup Instructions
 
-## ⚙️ Setup Instructions
-
-### 1. 🔧 Install dependencies
+### 1. 🔧 Install dependencies
 
 pip install -r requirements.txt
 
-### 2. 🛠️ Run preprocessing pipeline
+### 2. 🛠️ Run preprocessing pipeline
 
 python src/detect_anomalies.py
 python src/explain_anomalies.py
