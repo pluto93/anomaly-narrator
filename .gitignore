@@ -1,12 +1,15 @@
-# Ignore all large data files
-data/*.csv
+# Ignore all CSVs in the data folder...
+data/*
 
-# OPTIONAL: ignore model files if large
+# ...but explicitly keep this important one
+!data/transactions_with_clusters.csv
+
+# OPTIONAL: ignore large model files
 models/*.pkl
 
 # Ignore notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore Python cache
+# Ignore Python cache files
 __pycache__/
 *.pyc
