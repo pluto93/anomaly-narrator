@@ -2,6 +2,8 @@
 
 > AI-powered anomaly detection meets explainable insights — uncover and understand suspicious financial transactions.
 
+View the dashboard here: https://anomaly-narrator.streamlit.app/
+
 <img width="1430" alt="Screenshot 2025-07-05 at 10 49 55 pm" src="https://github.com/user-attachments/assets/e8ede515-e8ca-4650-8d19-cc1405d2f2ca" />
 
 ---
